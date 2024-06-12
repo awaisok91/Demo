@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-Auther Awais khan
+Auther - Awais khan
